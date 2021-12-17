@@ -34,7 +34,7 @@ The dataset split which was used in our project is can be accessed from the [Spl
 6. The error analysis of RPT-title-abstract-authors lies in the subdirectory 'Error analysis/AbstractAuthorsTitle'. Run the cells in order, to examine the misclassified examples, and to generate the T-SNE cluster visualisations.
 
 
-### TF-IDF B=baseline model:
+### TF-IDF baseline model:
 To run this model:
 1.	Install the required scikit-learn package by running the below command on terminal:
 	```python	
